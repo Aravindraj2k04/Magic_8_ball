@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Flutter-Course-Resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dicee-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mi_card_flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mmas-money-tracker" vcs="Git" />
+  </component>
+</project>
